@@ -1,6 +1,6 @@
 # **Cherry-izer**
-Convert any image into the style of the dust jacket of Nico Walker's debut novel, *'Cherry'*.  
-
+Convert any image into the style of the dust jacket of Nico Walker's debut novel, *'Cherry'*.   
+**[Blog Post](https://subwayharearmy.github.io/2019/cherry-izer/)** 
 
 
 **Disclaimer:**  
